@@ -1,0 +1,8 @@
+name: AdvancementMSG
+version: ${project.version}
+main: xyz.mlserver.advancementmessage.AdvancementMSG
+
+commands:
+    ad:
+        description: terracotta placer main command
+        usage:  /<command>
